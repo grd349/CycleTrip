@@ -10,4 +10,6 @@ An alternative that could be planned quickly would be a cycle round North Wales,
 
 Let's see if we can't flesh out a cycle from Chester to Cardiff via Bangor.
 
-<https://grd349.github.io/CycleTrip/>
+Feedback from the group is that they would rather do London Paris.  This is good as the route we took last year is a cracker.  We will follow a similar route to last year but split the first day and start in central London (St Pancras?).
+
+LEt's see what this looks like now ...
