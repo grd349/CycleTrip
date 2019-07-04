@@ -26,4 +26,4 @@ Stages
 
 **This gives a final stat of 438km total distance.**
 
-There is a possibility that we could take the Val d'Oise route instead of the Oise route.  This would probably be shorter and we be new for me and Kais but I can't imagine it being as good as the Oise route.
+There is a possibility that we could take the Val d'Oise route instead of the Oise route.  This would probably be shorter and would be new for all of us but I can't imagine it being as good as the Oise route.
