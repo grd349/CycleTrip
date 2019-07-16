@@ -32,6 +32,8 @@ Booking #3 : Booking confirmation reference 16954047 (Jimmy)
 Hotel, motel, `Holiday Inn <https://github.com/grd349/CycleTrip/issues/3>`_.
 This puts the cost at around £70 per person including breakfast.
 
+Booked : Booked : Confirmation number | 3235.623.126 @ £137 
+
 **Dieppe hotel** (All 4)
 
 Hotel `La Présidence <https://github.com/grd349/CycleTrip/issues/4>`_.
