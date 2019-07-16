@@ -21,6 +21,12 @@ time I had a commodore cabin and I regret nothing.
 The current plan is to take the Thursday September 5, 2019 at
 17:30 ferry. See `ferry issue <https://github.com/grd349/CycleTrip/issues/2>`_.
 
+Ferry is now booked!
+
+Booking #1 : Booking confirmation reference 19336402 (Guy)
+Booking #2 : Booking confirmation reference 18147560 (Paul)
+Booking #3 : Booking confirmation reference 16954047 (Jimmy)
+
 **Guildford hotel** (Paul and Guy only)
 
 Hotel, motel, `Holiday Inn <https://github.com/grd349/CycleTrip/issues/3>`_.
