@@ -13,3 +13,7 @@ Let's see if we can't flesh out a cycle from Chester to Cardiff via Bangor.
 Feedback from the group is that they would rather do London Paris.  This is good as the route we took last year is a cracker.  We will follow a similar route to last year but split the first day and start in central London (St Pancras?).
 
 Let's see what this looks like now ...
+
+## The route
+
+Paul has done a great job planning the route in fantastic detail.  The route (with GPX/TCX etc files) can be found in the closed issues.
